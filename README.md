@@ -23,7 +23,7 @@
   ![musculoskeletal](https://img.shields.io/badge/Musculoskeletal_Modelling-pink)
 
 - 🧠 Experience:
-- **Currently** Project Associate (Grade 2) on a soft, compliant exoskeleton for human walking assist R&D project
-- 0.5YOE as Junior Reseach Fellow on a novel metal 3D printing R&D project
-- 3YOE as System Engineer doing PLC/HMI/SCADA/Industrial Drives/Telemetry Programming and design documentation for UK-based utilities company
+  - **Currently** Project Associate (Grade 2) on a soft, compliant exoskeleton for human walking assist R&D project
+  - 0.5YOE as Junior Reseach Fellow on a novel metal 3D printing R&D project
+  - 3YOE as System Engineer doing PLC/HMI/SCADA/Industrial Drives/Telemetry Programming and design documentation for UK-based utilities company
 
