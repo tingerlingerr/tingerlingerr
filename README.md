@@ -1,7 +1,7 @@
 ## নমস্কার :pray: Hello :raising_hand:
 
 :smiley: About Me:
-- :green_book: Bachelors in Electronics and Instrumentation
+- :green_book: Bachelors in Electronics and Instrumentation Engineering
 - :calendar: YOE: Industry (3), Academic Research (1.5 as of May 2025)
 - :grin: Currently a Robotics Researcher at CSIR-Central Mechanical Engineering Research Institute
 - :hammer: Skills: </br></br>
@@ -24,7 +24,7 @@
   ![musculoskeletal](https://img.shields.io/badge/Musculoskeletal_Modelling-pink)
 
 - 🧠 Experience:
-  - **Currently** Project Associate (Grade 2) on a soft, compliant exoskeleton for human walking assist R&D project
+  - ***Currently*** Project Associate (Grade 2) on a soft, compliant exoskeleton for human walking assist R&D project
   - 0.5YOE as Junior Reseach Fellow on a novel metal 3D printing R&D project
   - 3YOE as System Engineer doing PLC/HMI/SCADA/Industrial Drives/Telemetry Programming and design documentation for UK-based utilities company
 
