@@ -15,6 +15,7 @@
   ![3star](https://img.shields.io/badge/***-yellow)</br>
   ![simscape](https://img.shields.io/badge/Simscape_Electrical-lightyellow)
   ![matlab](https://img.shields.io/badge/MATLAB-lightyellow)
+  ![PCB](https://img.shields.io/badge/PCB_Design-lightyellow)
   ![ROS2](https://img.shields.io/badge/ROS2-lightyellow)
   ![comsol](https://img.shields.io/badge/COMSOL_Multiphysics-lightyellow)
   </br></br>
