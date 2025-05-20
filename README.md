@@ -8,6 +8,9 @@
 - **Current Role:** Robotics Researcher at CSIR-Central Mechanical Engineering Research Institute
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tingerlingerr&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Skills: </br>
   ![Proficient](https://img.shields.io/badge/Proficient-green)</br>
   ![plc_hmi_scada_prog](https://img.shields.io/badge/PLC_HMI_SCADA_Programming_(IEC61131)-lightgreen)
