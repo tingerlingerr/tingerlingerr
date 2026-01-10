@@ -9,7 +9,6 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tingerlingerr&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://<your-vercel-app>.vercel.app/api/top-langs/?username=tingerlingerr&cache_seconds=86400)
 
 
 ## Skills: </br>
