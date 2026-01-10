@@ -10,8 +10,7 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tingerlingerr&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Language stats](assets/languages.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingerlingerr&show_icons=true&theme=radical)
 
 ## Skills: </br>
   ![Proficient](https://img.shields.io/badge/Proficient-green)</br>
