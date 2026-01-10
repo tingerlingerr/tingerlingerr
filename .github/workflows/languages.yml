@@ -22,6 +22,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_sections: percentages
+          plugin_languages_details: percentage
           plugin_languages_limit: 6
           plugin_languages_indepth: false
           filename: assets/languages.svg
