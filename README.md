@@ -8,9 +8,7 @@
 - **Current Role:** Robotics Researcher at CSIR-Central Mechanical Engineering Research Institute
 
 ---
-[
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tingerlingerr&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=tingerlingerr
-)
+[![Top Langs](https://<your-vercel-app>.vercel.app/api/top-langs/?username=tingerlingerr&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=github_dark&hide_border=true)](https://github.com/tingerlingerr)
 
 
 
