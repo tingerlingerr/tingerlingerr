@@ -4,7 +4,7 @@
 - **Education:** Bachelors in Electronics and Instrumentation Engineering (2020)
 - **Experience:**
   - Industry: 3 years
-  - Academic Research: 1.5 years as of May 2025
+  - Academic Research: 2 years as of Jan 2026
 - **Current Role:** Robotics Researcher at CSIR-Central Mechanical Engineering Research Institute
 
 ---
