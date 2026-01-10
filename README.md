@@ -11,6 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tingerlingerr&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Language stats](assets/languages.svg)
 
+<!--
 ## Skills: </br>
   ![Proficient](https://img.shields.io/badge/Proficient-green)</br>
   ![plc_hmi_scada_prog](https://img.shields.io/badge/PLC_HMI_SCADA_Programming_(IEC61131)-lightgreen)
@@ -31,7 +32,7 @@
   ![musculoskeletal](https://img.shields.io/badge/Musculoskeletal_Modelling-pink)
 
 ---
-
+-->
 ## Professional Experience:
   - **Project Associate - Grade II** (_**Currently**_)
     - Research, design and development of a soft, compliant exoskeleton for human walking assistance.
