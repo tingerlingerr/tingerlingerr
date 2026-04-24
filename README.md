@@ -4,8 +4,8 @@
 - **Education:** Bachelors in Electronics and Instrumentation Engineering (2020)
 - **Experience:**
   - Industry: 3 years
-  - Academic Research: 2 years as of Jan 2026
-- **Current Role:** Research Engineer at CSIR-Central Mechanical Engineering Research Institute
+  - Academic Research: 2.5 years as of June 2026
+- **Current Role:** Research Engineer at Indian Institute of Technology, Delhi
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tingerlingerr&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,7 +34,9 @@
 ---
 -->
 ## Professional Experience:
-  - **Project Associate - Grade II** (_**Currently**_)
+  - **Senior Research Fellow (_Current_)
+    - STMicroelectronics-funded project to detect hand micro-vibrations for grip slip and tremor detection
+  - **Project Associate - Grade II** (_1.5YOE_)
     - Research, design and development of a soft, compliant exoskeleton for human walking assistance.
   - **Junior Research Fellow** (_0.5YOE_)
     - Research, design and development of a novel, induction based metal additive manufacturing (3D printing) technique.
