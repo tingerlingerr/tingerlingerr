@@ -34,8 +34,8 @@
 ---
 -->
 ## Professional Experience:
-  - **Senior Research Fellow (_Current_)
-    - STMicroelectronics-funded project to detect hand micro-vibrations for grip slip and tremor detection
+  - **Senior Research Fellow** (_Current_)
+    - STMicroelectronics-funded project to detect hand micro-vibrations that quantifies object grip slip and stress-induced tremor.
   - **Project Associate - Grade II** (_1.5YOE_)
     - Research, design and development of a soft, compliant exoskeleton for human walking assistance.
   - **Junior Research Fellow** (_0.5YOE_)
