@@ -8,7 +8,7 @@
 - **Current Role:** Research Engineer at Indian Institute of Technology, Delhi
 
 ---
-[![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=tingerlingerr&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=tingerlingerr&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Language stats](assets/languages.svg) -->
 
