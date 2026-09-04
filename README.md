@@ -41,6 +41,6 @@
   - **Junior Research Fellow** (_0.5YOE_)
     - Research, design and development of a novel, induction based metal additive manufacturing (3D printing) technique.
   - **System Engineer** (_3YOE_)
-    - PLC/HMI/SCADA/Industrial Drives/Telemetry Programming and design documentation for UK-based utilities company
+    - PLC/HMI/SCADA/Industrial Drives/Telemetry Programming and design documentation for a UK-based utilities company
 
 ---
